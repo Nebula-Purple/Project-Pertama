@@ -7,8 +7,8 @@ const HeroComp = () => {
       <Container>
         <Row>
           <Col>
-          <h1 className='text-black fw-bold text-center fs-1 animate__animated animate__fadeInUp'>Mari bersantai sejenak</h1>
-          <p className='text-black-50 text-center animate__animated animate__fadeInUp animate__delay-1s'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi, porro!</p>
+          <h1 className='text-black fw-bold text-center fs-1 animate__animated animate__fadeInUp'>Perjalan Terbaik Membawamu Pulang</h1>
+          <p className='text-black-50 text-center animate__animated animate__fadeInUp animate__delay-1s'>"Rumah adalah tempat dimana cinta berada, kenangan diciptakan, teman selalu menjadi milik, dan tawa tidak pernah berakhir."</p>
           </Col>
         </Row>
       </Container>

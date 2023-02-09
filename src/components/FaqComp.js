@@ -15,7 +15,7 @@ const FaqComp = () => {
           <Col className=''data-aos="fade-up" data-aos-delay="200">
             <Accordion>
               <Accordion.Item eventKey="0">
-              <Accordion.Header>Bagaimana cara cara saya untuk ordernya?</Accordion.Header>
+              <Accordion.Header>Bagaimana cara untuk ordernya?</Accordion.Header>
               <Accordion.Body>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -31,7 +31,7 @@ const FaqComp = () => {
           <Col className=''data-aos="fade-up" data-aos-delay="400">
             <Accordion>
               <Accordion.Item eventKey="0">
-              <Accordion.Header>Apakah tempat ini sudah memenangkan penghargaan?</Accordion.Header>
+              <Accordion.Header>Bagaimana kualitas barang yang dihasilakan?</Accordion.Header>
               <Accordion.Body>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -47,7 +47,7 @@ const FaqComp = () => {
           <Col className=''data-aos="fade-up" data-aos-delay="600">
             <Accordion>
               <Accordion.Item eventKey="0">
-              <Accordion.Header>Bagaimana lingkungan di sekitarnya?</Accordion.Header>
+              <Accordion.Header>Material apa saja yang digunakan?</Accordion.Header>
               <Accordion.Body>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -95,7 +95,7 @@ const FaqComp = () => {
           <Col className=''data-aos="fade-up" data-aos-delay="1200">
             <Accordion>
               <Accordion.Item eventKey="0">
-              <Accordion.Header>Berapakah kapasitas tempat penginapan?</Accordion.Header>
+              <Accordion.Header>Apa yang membedakan produk ini dengan tempat yang lain?</Accordion.Header>
               <Accordion.Body>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -111,7 +111,7 @@ const FaqComp = () => {
           <Col className=''data-aos="fade-up" data-aos-delay="1400">
             <Accordion>
               <Accordion.Item eventKey="0">
-              <Accordion.Header>Apakah cocok untuk anak-anak?</Accordion.Header>
+              <Accordion.Header>Apakah cocok dengan kebutuhan konsumen?</Accordion.Header>
               <Accordion.Body>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -127,7 +127,7 @@ const FaqComp = () => {
           <Col className=''data-aos="fade-up" data-aos-delay="1600">
             <Accordion>
               <Accordion.Item eventKey="0">
-              <Accordion.Header>Berapa banyak anak-anak yang sudah lulus di tempat ini?</Accordion.Header>
+              <Accordion.Header>Berapa banyak barang yang bisa dihasilkan dalam perbulan?</Accordion.Header>
               <Accordion.Body>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad

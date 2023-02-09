@@ -8,7 +8,7 @@ const ServiceComp = () => {
             <Row className='mb-5'>
                 <Col>
                     <h1 className='text-center fw-bold' data-aos="fade-up">Services</h1>
-                    <p className='text-center' data-aos="fade-up" data-aos-delay="200">Lorem ipsum dolor sit amet consectetur.</p>
+                    <p className='text-center' data-aos="fade-up" data-aos-delay="200">Pelayanan terbaik merupakan prioritas bagi kami.</p>
                 </Col>
             </Row>
             <Row className='row-cols-lg-3 row-cols-md-2 row-cols-1 justify-content-center'>
